@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A defiance to tyrants. Or The araignment of two illegall committees. viz. The close committee of Lords and Commons appointed to examine the London agents. And the committee of plundered ministers. In two pleas made by L.C. Lilburne prerogative prisoner in the the Tower of London. Wherein is clearely declared the unjustness, arbitrariness, and absolute unlawfulness of the late proceedings of that close committee of Lords and Commons against the London agents. And also, proving all the proceedings of the committee of plundered ministers in summoning and imprisoning severall citizens of London, for refusing to pay tythes, to bee an absolute subversion of the fundamentall lawes of the land, and treason of as high a nature as any the Earle of Strafford lost his head for; they making their will a law unto the kingdome; there being no law at all in the kingdome, whereby the London-Priests can claime tythes, or recover them from any of their parishoners.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88172</idno><idno type="EEBO-CITATION">99865360</idno>
+  <idno type="VID">117600</idno>
+  <idno type="EEBO-PROQUEST">2248531962</idno>
+  
+            <idno type="STC">Wing L2099</idno>
+            <idno type="STC">Thomason E520_30</idno>
+            <idno type="STC">ESTC R206184</idno>
+            <idno type="PROQUEST">99865360</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865360e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117600)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E520[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A defiance to tyrants. Or The araignment of two illegall committees. viz. The close committee of Lords and Commons appointed to examine the London agents. And the committee of plundered ministers. In two pleas made by L.C. Lilburne prerogative prisoner in the the Tower of London. Wherein is clearely declared the unjustness, arbitrariness, and absolute unlawfulness of the late proceedings of that close committee of Lords and Commons against the London agents. And also, proving all the proceedings of the committee of plundered ministers in summoning and imprisoning severall citizens of London, for refusing to pay tythes, to bee an absolute subversion of the fundamentall lawes of the land, and treason of as high a nature as any the Earle of Strafford lost his head for; they making their will a law unto the kingdome; there being no law at all in the kingdome, whereby the London-Priests can claime tythes, or recover them from any of their parishoners.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the information of all men, that are not willing to be Priests ridden and to the slaves to Tyrannie and oppression,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotations on Thomason copy: "28" before 6 Jan. 1648 in imprint date; the 8 in imprint date crossed out and "1647" written in.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tithes --  England --  Early works to 1800.</term>
+               <term type="topical_term">Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117600:1"/>
+            <p>A Defiance to Tyrants. OR THE ARAIGNMENT OF TWO ILLEGALL COMMITTEES. <hi>viz.</hi> The close Committee of Lords and Commons appointed ro examine the <hi>London</hi> Agents. And the Committee of Plundered Ministers.</p>
+            <p>
+               <hi>In two Pleas Made by L. C.</hi> JOHN LILBVRNE <hi>Prerogative Prisoner in the Tower of</hi> London.</p>
+            <p>Wherein is clearely Declared the unjustness, arbitrariness, and absolute unlawfulness of the late Proceedings of that close Committee of Lords and Commons against the said <hi>London</hi> Agents.</p>
+            <p>AND ALSO, Proving all the proceedings of the Committee of <hi>Plundered Ministers in summoning and imprisoning severall Citizens</hi> of <hi>London,</hi> for refusing to pay Tythes, to bee an absolute subversion of the fundamentall Lawes of the Land, and Treason of as high a nature <hi>as any the Earle of</hi> Strafford <hi>lost his head for; They making their</hi> Will a Law unto the Kingdome; There being no Law at all in the Kingdome, whereby the <hi>London</hi>-Priests can claime Tythes, or recover them from any of their Parishoners.</p>
+            <p>LONDON, Printed for the information of all men, that are not willing to be Priest-ridden and to be slaves to Tyrannie and oppression, <hi>Jan.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:117600:2"/>
+            <pb facs="tcp:117600:2"/>
+            <head>A PLEA Made by L. Col. IOHN LILBVRNE, Prerogative Prisoner in the Tower of <hi>London,</hi> the second of <hi>Decem.</hi> 1647. Against the proceedings of the close and illegall Committee, of Lords and Commons appointed to examine these that are called <hi>London</hi> Agents, with di<g ref="char:EOLhyphen"/>vers large additions; unto which is annexed-a Plea for the said Citizens of <hi>London</hi> against the Committee for plun<g ref="char:EOLhyphen"/>dered Ministers, for their illegall imprisoning them for refu<g ref="char:EOLhyphen"/>sing to pay Tithes.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL <hi>Magistracy</hi> in <hi>England,</hi> is <hi>bounded</hi> by the <hi>known</hi> and <hi>de<g ref="char:EOLhyphen"/>clared Law</hi> of <hi>England</hi>
+               <note n="a" place="margin">See the Petition of right and Sr. <hi>Edw Cooke,</hi> 4. part <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>stitutes, Chap. high Court of Parliament.</note> and while they <hi>Act</hi> according to Law, I am bound to obey them, but when they leave the <hi>rules</hi> thereof, and walk by the <hi>arbitrary rules</hi> of their owne wills, they do not act as <hi>Magistrates,</hi> but as<note n="b" place="margin">See King <hi>Iames</hi> his speeches the Parl. at Wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Hall. 1<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>9. and 1 p. book Decl. p. 150. &amp; my Book called the out crye of oppressed Commons. p. 16. 17. 18, and my Epistle to Mr. <hi>Martin</hi> of the 31. <hi>May.</hi> 1647. called Rash Oaths &amp; p. 56.</note>
+               <hi>Tyrants,</hi> and cannot in <hi>such actings</hi> challenge any <hi>obedience,</hi> neither am I bound to <hi>yeeld</hi> it, but am tied in conscience and duty to my selfe and my native Countrey therein to <hi>resist</hi> and <hi>withstand</hi> them, and if their Officers <hi>goe about</hi> by force and violence to <hi>Compell</hi> mee to <hi>obey</hi> and stoop unto their <hi>arbitra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> and <hi>illegall com<g ref="char:EOLhyphen"/>mand;</hi> I <hi>may,</hi> and <hi>ought,</hi> (if I will be true to my native and legall freedomes) by <hi>force</hi> to <hi>withstand him</hi> or <hi>them,</hi> in the <hi>same manner</hi> that I may <hi>withstand a man</hi> that comes to <hi>rob</hi> my <hi>house,</hi> or as I may withstand a <hi>man,</hi> that upon the <hi>high way</hi> by force and violence would <hi>take my purse</hi> or <hi>life</hi> from <hi>me.</hi>
+            </p>
+            <p>And therefore all <hi>Warrants</hi> comming from any pretended or reall <hi>Committees</hi> of <hi>Lords and Commons</hi> to command me before them, that are <hi>not formed</hi> according to the <hi>Law of England,</hi> I ought not to <hi>obey,</hi> but <hi>withstand</hi> and resist upon paine of being by all the unbiased understanding men of <hi>England</hi> esteemed a <hi>betrayer</hi> and <hi>destroyer</hi> of the <hi>Lawes</hi> and <hi>liberties</hi> of <hi>England,</hi> for the preservation of which I ought to contest as <hi>Naboth</hi> did with King <hi>Ahab</hi> for his vineyard, 1 <hi>King.</hi> 21. 2, 3, 4, 13. And by the <hi>Law</hi> of <hi>England,</hi> no <hi>warrant</hi> or <hi>precesse</hi> ought to <hi>issue</hi> out to <hi>summon</hi> up any man to any <hi>Court</hi> of <hi>Iustice</hi> of <hi>England whatsoever,</hi> till a <hi>complains</hi> by a certaine <hi>prose<g ref="char:EOLhyphen"/>cutor</hi> be <hi>filed</hi> or <hi>exhibited, in that Court</hi> of <hi>justice,</hi> from whence the <hi>warrant, processe</hi> or <hi>Summons</hi> comes, which <hi>warrant, processe,</hi> or <hi>Summons</hi> ought expresly to containe the <hi>Nature</hi> of the <hi>Cause</hi> to which I am to answere,<note n="c" place="margin">See <hi>Cooke</hi> 2 part institute<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon the 29. Chap. of Magna Charta. fo. 52. 53. &amp; 590. 591. &amp; regall tirany, p. 78. 79. 80. 81. &amp; vox plebis, p. 37. &amp; my plea before Mr. <hi>Marten</hi> of the sixt. <hi>Nov.</hi> 1646. called an a<g ref="char:EOLhyphen"/>notomy of the Lords tirany, <hi>p.</hi> 5. 7. 8.</note> and the <hi>name</hi> of my <hi>prosecutor</hi> or complainants, or else it is not legall, and so not binding, but may and ought to be resi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed by mee, and the Court must be sure to have legall jurisdiction over the causes.</p>
+            <p>Secondly, <hi>All</hi> the <hi>Capacities</hi> that either the <hi>house of Commons</hi> or <hi>Lords</hi> can sit in, is.</p>
+            <p>
+               <hi>First,</hi> either as a <hi>Councell,</hi> and so are to be close, (and for any man whatsoever in that <hi>capacitie</hi> to come, or offer to come in amongst them, that do not belong unto them, is <hi>unwarrantable,</hi> and so <hi>punishable</hi>
+               <note n="d" place="margin">See <hi>Cooks</hi> 2 part. instl. fol. 103. 104. &amp; 4 part insti. Chap. High Court of Parlm. and the book called the manner of holding Parlmes. Mr. <hi>Prime</hi> relation of the triall of Coll. <hi>Nath. Fin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> p. 13. &amp; rega<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tirany. p. 82. 83.</note> or else,</p>
+            <p>
+               <hi>Secondly,</hi> as a <hi>Court of justice,</hi> to try and <hi>examine</hi> men in <hi>criminall causes,</hi> and in this <hi>capacitie</hi> they or any of their <hi>Committees</hi> ought alwayes to <hi>Sit open,</hi> for all <hi>peace<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:117600:3"/> men freely to behold and see,</hi>
+               <note n="e" place="margin">See 2 part institutes, fol. 103. 104. &amp; my Book called the resolued mans resolution, p. 56 and regall tyrannie p 81. 82, 83. and Mr. <hi>Prims</hi> rela<g ref="char:EOLhyphen"/>lation of Col. <hi>Nath. Finis</hi> his tryall. p. 11, 12, 13.</note> or else I am not bound to goe to <hi>any triall</hi> with them, or <hi>answer</hi> them a <hi>word,</hi> and therefore in <hi>this sence</hi> most <hi>illegall</hi> is the <hi>close Committee of Lords and Commons,</hi> for <hi>examining</hi> those (they call) <hi>London Agents,</hi> or any other whatsoever.</p>
+            <p>And, Thirdly, that <hi>close Committee</hi> is most illegall, being a <hi>mixture</hi> of Lords with Commons, seeing the Lords are none of their or my <hi>Peers</hi> and <hi>equall</hi> by Law, and so cannot; nor ought not to be there to be my <hi>examiners, tryers,</hi> or <hi>Iudges,</hi> and a <hi>traitor</hi> I am to the <hi>Lawes</hi> and <hi>liberties</hi> of England, if I stoop or submitt to the <hi>Iu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sdi<g ref="char:EOLhyphen"/>ction</hi> or power of <hi>such a mixt Committee.</hi>
+               <note n="f" place="margin">See my gran plea and my letter 11. <hi>Nov,</hi> 1647 to every Indviduall Member of the house of Commons. See Sr. <hi>Edw. Cooks</hi> exposition of the 14 and 29 Chap. of Magna Charta in his 2 part institutes &amp; regall tyrannie p. 43, 44, 72, 73, 74, 85, 86. &amp; vox plebis p. 38. 39, 40, 41. 42, and my a<g ref="char:EOLhyphen"/>pistle to the L. of the Tower the 30. <hi>Ian.</hi> 1646. called the o<g ref="char:EOLhyphen"/>pressed mans opressions decla<g ref="char:EOLhyphen"/>red pa. 17, 18, 19.</note>
+            </p>
+            <p>Thirdly, it is contrary to Law, and expresly against the Petition of right, either for this Committee of Lords and Commons; or any other Court of Iustice or Com<g ref="char:EOLhyphen"/>mittee whatsoever, to force me or any man to answer to interrogatories against my selfe, or my neer relations</p>
+            <p>Fourthly, Neither can they legally goo about to try or punish the for any crime that is triable or punishable at Common Law.<note n="g" place="margin">See vox plebis p. 38. my Anatomy of the Lords tyrannie. p. 10. and <hi>Thompsons</hi> plea a<g ref="char:EOLhyphen"/>gainst Marshall Law.</note>
+            </p>
+            <p>Fifthly, and if in case there be no <hi>Law exta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> to punish their <hi>pretended London Agents</hi> for doing their <hi>duty</hi> in prosecuting those just things, that the Parl. hath often declared is the right and due, of all the free men in England, they ought to goe free from punishment; for where there is no Law there can (saith the Apostle <hi>Paul</hi>) be no transgression<note n="h" place="margin">Rom. 4.15. Englands birth-right p. 1, 2, 3, 4. &amp; the resolved mans resolution p. 24, 25, 26.</note> but if that Committee or any <hi>other power</hi> in <hi>England</hi> shall <hi>Commit</hi> mee, or any <hi>Commoner in England</hi> to prison for disobeying their illegall and <hi>Arbitary Orders,</hi> it is more then by Law they can do; neither ought I to goe to prison, but by force and violence (which I cannot resist) and I ought to see that the warrant be legall in the forme of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, that is to say, that it be under hand and seale, and that he or they in law, have power to Commit me, and that the warrant containe the expresse cause wherefore I am Committed, and also have a Lawfull conclusion, viz: <hi>and him safely to keep untill he be delivered by due course of Law, and not during the pleasure of this house or Committee, or till this house or Cooumittee do further Order</hi>
+               <note n="i" place="margin">See the proves in the third Marginall note at the leter<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> c.</note> and I may &amp; ought to <hi>read</hi> the <hi>Warrant,</hi> and to have a <hi>copy</hi> of it, if I demand it, without <hi>paying</hi> any thing for it; and if I be <hi>Committed</hi> for any <hi>Crime</hi> not <hi>mentioned</hi> in the <hi>Statute</hi> of Ed. 3. Cap. 15.<note n="k" place="margin">which Statute you may read before p 6 &amp; take notice of this, that all misdemeanours whatsoever are bailable.</note> I am <hi>Bail<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble,</hi> which I may and ought to tender in person to the par<g ref="char:EOLhyphen"/>ties that <hi>Commit</hi> me, either (if I have them by me) befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e I goe to prison, or else at soone as I am in prison, or as soone as I can conveniently get fit baile for me; and in Case I be legally Committed, both <hi>for power Mattet and forme, and</hi> be kept in prison after I have proffered <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aile (as before) I may bring my <hi>action of false imprison<g ref="char:EOLhyphen"/>mont</hi> and recover damages therefore: but besides knowe this, that there is not one farthing token due to the <hi>Serjant at arms</hi> or any other <hi>Officer</hi> whatsoever, that carries me, to prison, neither is there <hi>one peny due</hi> to any <hi>Goaler</hi> whatsoever for fees from me but one <hi>bare gro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</hi> at most;<note n="l" place="margin">See the 3 E 1 Chap. 26 &amp; 4 E. 3, 10, &amp; 23. H. 6, 10 &amp; Rast. plea fo. 31 7. vox plebis p. 55, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 57, &amp; my late Epistle to Col. <hi>West</hi> late Leift of the Tower called the oppressed mans oppression declared p. 3, 4. 1 part <hi>Cooks</hi> insti. Lib. 3, chap. 13, Sect, 701. fol. 368. where he positively declares is was the native and ancient rights of all English men, both by the statute and common Law of England, to pay no fees at all to any administra<g ref="char:EOLhyphen"/>tors of Iustice whatsoever, or any Clearke or officer whatsoever, officiating under them, who were onely to receive there Fees, Wages, and Salleries of the King, out of the Publique treasure. See also a part institutes fol. 74. 209, 210. the Publique treasure of the King<g ref="char:EOLhyphen"/>dome being betrusted with the King for that and such ends: see also that excellnt booke in English, called the Mir<g ref="char:EOLhyphen"/>ror of Iustice Chap. 5. Sect. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pag 231, and Iudge <hi>Huttons</hi> argument in Mr. <hi>Hamdens</hi> case against ship mony, pag. 41,</note> and when I am in prison, I ought to be used with <hi>all civillity</hi> and <hi>humantie:</hi> for that great Lawyer, Sir <hi>Edward Cook</hi> expresly saith,<note n="m" place="margin">See 1 part institutes lib, 3, Chap, 7, Sect. 438 fo 260 &amp; the 2 part fo. 43, 315, 590. see my book called the oppressed mans oppressions declared p, 3 vox plebis p 47, 55 56. &amp; liberty vindicated against slavery p, 14, 15, 16.</note>
+               <hi>That imprisonment must onely be safe custody, not a punishment, and that a prison ought to be for keeping men safe to be duly tryed, according to the Law and custome of the land but not in the least to punish or destroy them,</hi> (or to remaine in it till the party committing please:) and he further saith, in his <hi>exposition</hi> of the 26 Chap. of Magna Charta.<note n="n" place="margin">in his 2 part ins<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes fol. 42, 43. which is exceding well worth your reading see fo. 315, 316. 590, 591 see the mirrour of Iustice in English Chap, 5, Sect 1 devision, 53, 54, 55, 57, 58, pag 231.</note>
+               <hi>that the Law of the Land favouring the libertie and freedome of a man from imprisonment, and so highly hating the imprisonment of any man what<g ref="char:EOLhyphen"/>soever, though Committed or accused of heinous and odious crimes that by Law it self is not bailable, yet in such a case it alowes the prisoner the benefit of the Write called</hi> de odio &amp; aria <hi>anciently called</hi> breve, de bono &amp; Malo <hi>to purchase his liberty by, which</hi>
+               <pb facs="tcp:117600:3"/>
+[he saith] <hi>he ought to have out</hi> gratis, which <hi>Write is</hi> in force to <hi>this day,</hi> and there<g ref="char:EOLhyphen"/>fore [he saith ibid:] <hi>that the Iustices of assise, Iustices of Oyer and Termimer, and of Goale delivery have not suffered the prisoner to be long det<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ined, but at their next com<g ref="char:EOLhyphen"/>ming have given the prisoner full and speedy Iustice, by due tryall without detaining him long in prison. Nay</hi> [saith he] <hi>they have been so farre from allowance of his de<g ref="char:EOLhyphen"/>taining in prison without due tryall, that it was resolved in the case of the Abott of</hi> St. <hi>Albon by the whole Court, that where the King had granted to the Abott of</hi> St. <hi>Albon, to have a Goale, and to have a Goale delivery, and divers persons were com<g ref="char:EOLhyphen"/>mitted to that Goale for fellony, and because the Abott would not be at the cost to make deliverance, he detained them in prison long time without making lawfull deliverance, that the Abbot had for that cause forfeited his franchise and that the same might he seized into the Kings hand.</hi>
+            </p>
+            <p>And in case the party be <hi>Committed</hi> to <hi>prison</hi> unjustly, and no <hi>Baile</hi> will be taken for him, he ought to require a <hi>Copy</hi> of his <hi>Mittimus</hi> and to have it <hi>gratis,</hi> and if I should demand it and it would not be given me, I would not goe unlesse I were <hi>Car<g ref="char:EOLhyphen"/>ried by Force, by head and he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls,</hi> and then I would cry our <hi>Murder, Murder,</hi>
+               <note n="o" place="margin">only this is to be taken no<g ref="char:EOLhyphen"/>tice of, that if I commit an of<g ref="char:EOLhyphen"/>fence before the view of a Iudge or Iustices sitting upon the Bench I ought to goe to prison with or by his verball command, with any officer of the Court he shall Command me to goe with, only he ought to enter a Mittiter and send it after me when the Court ris<g ref="char:EOLhyphen"/>eth, and I may if I please pro<g ref="char:EOLhyphen"/>ffer him baileto answere the Law when he Commit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me, which he ough not to refuse and if he do, it is fals imprison<g ref="char:EOLhyphen"/>ment if my pretended or reall crime were bailable and my action I may have against him.</note> end do the best I could to preserve my selfe tell I had got a Copy of it; for many times, when a man comes to prison the <hi>dogged Gaolers</hi> will refuse to let me have it [which may be a great detriment unto me] and if I stirre or bussle for it, <hi>his will shall be a Law un<g ref="char:EOLhyphen"/>to me,</hi> to <hi>dungion me, boalt and fetter me,</hi> contrary to Law <hi>It being</hi> [as, <hi>Andrew Horne</hi> saith in his excellent booke called the Mirrour of Iustice in English, Chap. 5. Sect. 1 devision 54 page 231] <hi>an abuse of Law that a prisoner is laden with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rone, or put to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine before he be adtained of fellony.</hi> &amp;c. And when I am thus in prison [committed by what authority soever] the first thing that I am to doe is to send my friend [be he what he will be] as well a private understanding resolute man, as a Lawyer] for either my selfe or any one I will appoint, may, and ought to plead my cause before any Iudge in England, as well as any Lawyer in the Kingdome, and neither ought by the Iudge to be forbidden, snub'd or browbeaten] to the <hi>Chancery</hi> for <hi>a habeas corpous,</hi> if it be out of terme: for as Sr. <hi>Edw. Cooke</hi> on the 29 Chap. of Magna Charta well<note n="p" place="margin">in his 2 part institutes fo. 52. 53. in which pages you may read the very words of an habeas Corpus as also in the 79 80. 81. pages of Regall ti<g ref="char:EOLhyphen"/>rany where you may have them in English, as well as Latin,</note> saith the <hi>Chancery</hi> is a <hi>shop of Iustice alwayes open, and never adjourned,</hi> so as the subject being wrongfully imprisoned; may have Iustice for the Liberty of his person as well in the <hi>Vacation time,</hi> as in the <hi>Tea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me,</hi> but if it be <hi>Tearme time</hi> it is most proper to move for the <hi>habias corpus</hi> at the Kings bench barre, and if the Iudges refuse to grant it unto you [it being your right by Law as the Petition of Right fully declares<note n="q" place="margin">upon which habeas corpus, if you be brought up to the barr, you ought if wrongfully imprisoned, clearely to be dis<g ref="char:EOLhyphen"/>charged without baile, &amp; with baile if justly imprisoned if your crime be bailable or else the Iudge forsweares himselfe for which you may indict him for perjury and also have <hi>an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> action at Law for false im<g ref="char:EOLhyphen"/>prisonment against him that falsly committed you, or they that forced you hither, yee &amp; in diverse cases against the Iaylor himselfe, who ought not by Law [upon their pe<g ref="char:EOLhyphen"/>rills] to receive or detaine you, but by a legall warrant flow<g ref="char:EOLhyphen"/>ing from a legall power, as be<g ref="char:EOLhyphen"/>fore I have more fully noted. see also 1 p. book decla. pa, 205</note> and the Iudges by their oath [before printed page 10. 34.] are bound to execute the Law impartially without giving care in the le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st to the unjust command of the parl. or any other against it, then you may by the Law indict the Iudge or Iudges for perjury, and if then they shall deny you the benefit of the Law, I know no reason but you may conclude them absolute tirants, and that the foundation of Goverment is over turned and you [as the Parliam. hath taught you] are left to the naturall remedy to preserve, your selves which selfe preservation they have declared no people can be de<g ref="char:EOLhyphen"/>prived of; see their declarations 1 part booke declar. pag. 207. 6, 90, 728, 150.</p>
+            <closer>
+               <dateline>From my Arbitrary, tyranicall, and<lb/> Murthering imprisonment in the<lb/> Tower of London <date>this 2 of <hi>Dec.</hi>
+                     <lb/> 1647.</date>
+               </dateline>
+               <signed>
+                  <hi>Iohn Lilbbrne,</hi> in adversity and pro<g ref="char:EOLhyphen"/>sperity,<lb/> and in life and death, always one<lb/> and the same for the liberties of him<g ref="char:EOLhyphen"/>selfe<lb/> and his native Country.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:117600:4"/>
+            <head>Postcript.</head>
+            <p>BUt while I was concluding this second edition of the London Agents plea, with the fore-ex<g ref="char:EOLhyphen"/>pressed additions, newes is brought me that the Committee of plundred Ministers, summons up <hi>Londoners</hi> and commits them for none payment of Tythes; for whom I frame a Plea thus. That the houses of Parliament, have already made two Ordinances about Tythes of the 8. of <hi>No<g ref="char:EOLhyphen"/>vem.</hi> 1644. and the 9. of <hi>August,</hi> 1647. &amp; by those Ordinances referred the <hi>London</hi>-Parsons, or Ministers in London, to get their Tyhes according to the statute of the 37. <hi>H.</hi> 8. 12. which Statute authoriseth such, and such men to be Commissioners therein nominated, or any six of them to make a decree, which decree shall be as binding to the <hi>Londoners</hi> as an expresse act of Parliament, in which they give the Parsons <hi>two shillings nine-pence in the pound,</hi> for all house rents, &amp;c. which the Londoners are bound to pay unto their Parsons, if the said Decree had (as by the foresaid Sta<g ref="char:EOLhyphen"/>tute it ought to have been) entered upon record in the High Court of Chancery, which it never was nor is not there to be found <hi>as Mr.</hi> Narborow <hi>the Lawyer in Roben-Hoods Court in Bow-Lane London, proved by Certificate under the record Keepers hand, before Alderman</hi> Adams, <hi>when he was Lord Major of London;</hi> in a case betwixt Parson <hi>Glendon</hi> of Barkins by Tower-Hill, and one of his Parishoners, <hi>viz.</hi> Mr. <hi>Roberts</hi> a Marchant, as I remember, for I was by and heard all the Plea.</p>
+            <p>And therefore the Parsons of London, can neither by law nor those Ordinances, recover or justly require, one farthing token of tythes from any Citizen of London.</p>
+            <p>And for the Committee of plundered Ministers by any pretended authority that yet is visible, to take upon them to execute those Ordinances, or to compell the Citizens of London to pay tythes to their Parsons or Ministers, they have no more authority, or right to do it, then a Theefe hath upon the high way to Rob me of my Purse, or life, and for them by the Law of their own will, to take upon them to send Summons to any freeman of England, and to force them to come before them; and without due processe of<note n="*" place="margin">And what due processe of Law is, you may read in the 2 part instituts upon the 29 Chap. of Magna Charta, and vox plebis pag. 11, 12, 14, 15, &amp;c. and my booke called The resolued mans resolution, page 3, 4, 5, 6, &amp;c. and my grand Plea against the Lords, and <hi>Thompsons</hi> Plea against the new <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irants at Windsors executing Marshall Law.</note> Law; to pay so much money to the Parsons, upon any pre<g ref="char:EOLhyphen"/>tence whatsoever, &amp; for unwillingnesse to pay, to commit him or them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Prison, is a crime in my judgement of as high a nature in subverting our fundamentall Lawes and liberties, and se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng up an Arbitrary Tirannicall Government, as the Earle of <hi>Straford</hi> was accused of; and lost his head for: and as well doe the actors in this arbitrary Committee deserve to die for these actions, as traiterous subvertors of our lawes, as the Earle of <hi>Straford</hi> did for his; against whom in the fift Article of his additionall impeachment of treason, it is alledged, against him, <hi>That hee did use and exercise a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower, above, and against; and to the subversion of the said fundamentall Lawes, extending such his power, to the goods, free-holds, inheritances, liberties, and lives of the people.</hi>
+            </p>
+            <p>And in the sixt Article of his said impeachment it is laid unto his charge, as a tran<g ref="char:EOLhyphen"/>scendent treasonable crime, <hi>That the said</hi> Thomas <hi>Earle of</hi> Strafford, <hi>without any legall proceedings, and upon a paper Petition of</hi> Richard Rolstone, <hi>did cause the said</hi> Lord <hi>Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt Norris,</hi> to be disseized and put out of possession of his free-hold &amp; inheritance, <hi>without due processe of Law.</hi>
+            </p>
+            <p>And in the seventh Article, he the said Earle is charged, <hi>That in the terme of holy Trinity, in the</hi> 13 <hi>yeare of his now Majesties raigne, did cause a case, commonly called the case of Tenures upon defective Titles, to be made and drawne up without any Iury or tryall or other legall processe, without the consent of parties, by colour of which lawlesse procedings, divers of his Majesties subjects</hi> (and particularly the Lord Tho: Dil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on) <hi>were out<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed of there possessions and disseized of there free-hold by colour of the same re<g ref="char:EOLhyphen"/>solution, without legall preceedings, whereby many hundreds of his Majesties subjects were undone and their families utterly ruinated.</hi>
+            </p>
+            <p>And in the 8. Article, he is impeached, <hi>That upon a petition of Sr</hi> Iohn Gilford <hi>Knight, the first day of</hi> Febr. <hi>in the said</hi> 13 <hi>yeare of his Majesties raigne, without any legall processe, made a decree a<g ref="char:EOLhyphen"/>gainst</hi> Adam <hi>Viscount</hi> Loftus of Elie, <hi>and did cause the said Viscount to be imprisoned and kept close prisoner, on pretence of disobedience to the said decree or order;</hi> &amp; without any <hi>Legall proceedings, aid in the same</hi> 13 <hi>yeare imprison,</hi> George Earle of Kildare against law, <hi>thereby to inforce him to submit his
+<pb facs="tcp:117600:4"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itle to the manner and Lordship of Castle L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igh</hi> (being of great <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>early value) <hi>to the said Earl of</hi> Strafords <hi>will and pleasure, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pt him a yeare a prisoner for the said cause, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e moneths wher<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he kept him close prisoner</hi>
+               <note n="*" place="margin">All which charges you may at larg reade in the 123, 124, 125 pages, of a book called Speeches and Pallages, prin<g ref="char:EOLhyphen"/>ted for <hi>W. Cooke,</hi> a Furnivah-Inne gate in Holborne, 1641.</note>, &amp;c.</p>
+            <p>Now the Parliament it selfe or the Members thereof, being as Sr. <hi>Edward Cooke</hi> well declares (In his 4 part in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, published for good Law by their owne speciall orders) as subject to the Law, as other men (saving in the freedome of arrests, that so their persons may not be hindred from the discharge of their trust in the house, which their Country hath reposed in them) and unto whome till it be repealed, it is a rule, as well as to any other m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in England whatsoever, especially in all actions or differences betwixt party and party; and that Parliament man that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall say, that any Committee of Parliament, or the whole house is the Law, shews, and declares himselfe either igno<g ref="char:EOLhyphen"/>rant of the Law, or a voluntary and willfull deceiver: for what is within their breasts I neither can know, nor any <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nd to inquire after for to know or take notice of,<note n="*" place="margin">see Englands birthright p 3. 4. 5, 6, 7, 8.</note> neither is any thing therein (till it be legal<g ref="char:EOLhyphen"/>ly put in writting, legally debated, passed, and legally published) binding in the least unto me or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny man in England: and indeed to speak properly, the Parliaments worke is to repeale old Laws and to make new ones, to pull down old courts of justice and erect new ones, to make warre and and conclude peace, to raise money and see it rightly and providently disposed of (but them<g ref="char:EOLhyphen"/>selves are not in the least to finger it<note n="*" place="margin">for the third Article in the first impeachment of the Earle of <hi>Straford</hi> in the a<g ref="char:EOLhyphen"/>bovesaid book pag 118 runs thus; that the better to in<g ref="char:EOLhyphen"/>rich and in able himselfe to to go thorow with his trai<g ref="char:EOLhyphen"/>terous designes, he hath de<g ref="char:EOLhyphen"/>tained a great part of his Majesties revenue, without giving legall account, and hath taken great summs out of the Exchequer, convert<g ref="char:EOLhyphen"/>ing them to his owne use when his Majesty was ne<g ref="char:EOLhyphen"/>cessitated for his owne ur<g ref="char:EOLhyphen"/>gent occasions, and his ar<g ref="char:EOLhyphen"/>mie had been along time unpayd.</note>) it being their proper work to punish those <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at imbezle and wast it, but if they should finger it and wast it, may not the Kingdome easily be chetted of its treasure, and also be left without meanes to pun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ish them for it<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and most dishonorable it is, and below the greatnesse of Legislators a sloop to be executors of the Law, and indeed it is most irrationall and unjust they <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould, for if they doe me injustice I am rob'd and deprived of my remedy, and my appeale it being no where to be made, but to them, whose worke it is to punish all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ile or evill administrators of justice: and therefore I wish they would seriously <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>igh there own words in their declaration of the 17 of <hi>Aprill,</hi> 1646. 2 part booke declarations pag 878. where to the whole Kingdome they declare, <hi>that they will <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, nor any by colour of any author it, derived from them, shall interrupt</hi> the ordinary cause of justice in the severa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Courts and Iudicatories of this Kingdome, nor inter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eddle in cases of private interest, other where determinable, unlesse it be in case of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale administration of Iustice, wherein we shall see [say they] and provide, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight be done, and punishment inflicted, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s there shall be occasion, according to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lawes of the Kingdome, and the t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reposed in us.</p>
+            <p>And therefore seeing that by the Law of their owne will, without due course <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> processe of Law, or any visible shadow or colour of Law; the Committee of plun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Ministers will Rob the Citizens of their proper goods, which is not in the least <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>iable, for as Iudge <hi>Crook</hi> in the sixty, first pag of his Argument in Mr. <hi>Hampdens</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ause against ship money, saith, that the <hi>Law book called the</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd stud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers Chap</hi> 5. pag. 8 <hi>setting dowre, that the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doth vest the absolute, propertie of every wans go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u self<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and that they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he taken</hi> from him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut by<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s (legall) consent, saith, <hi>that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the reason, if they be t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, the party shall answere the full value,</hi> thereof in damage, and so (saith judge <hi>Crooke</hi>) I conceive that the party that doth this wrong to an other, shall be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>des the damages to <hi>the party, be imprisonn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and pay a <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, which in the Kings-bench it the tenth part <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>asmuch she payeth to the party, so then if the King w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nish the wrong of taking of Goods without consent be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eu party and party, much more will he not by any prerogat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve</hi> take away any mans goods without his assent parti<g ref="char:EOLhyphen"/>cular or generall.</p>
+            <p>But if they will either have your goods or your libertie from you by the Law of their own will<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, be sure you play <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Englishmen, not foolishly or Willingly to bettary your liberty into their hands, but in this case, part with them at <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would part with your purse to a Theese that robs you upon the high way, for the forementioned Lawyer in the mentioned 8 pag. saith, <hi>that by the prime Laws of reason and nature</hi> (which are the Laws of God) it is lawfull <hi>for m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to defend himselfe against a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> un<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>st power,</hi> so hee keep one distance, so that if they will have your goods, let <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em distraine for them, and then you may replevy them, and thereby at law try the title of their right, and it they <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll imprison your person, go not but by force, &amp; be sure to stand upon the legality of the warrant, which that you may <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lly and truly understand the forme of it; I shall give you at large the words of Sr. <hi>Edward Cooke</hi> in the 2 part of his <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fol. 590, 591, 592 published by the Parliaments owne authority for good Law, who being expounding the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tatute of breaking prison, made in the 1. E. 2. upon the words, <hi>without cause,</hi> &amp;c. fo 590. expresly saith, this act speaking <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a cause <hi>is to be intended of a lawfull cause; and</hi> therefore false imprisonment is not within this act.</p>
+            <p>
+               <hi>Imprisonment is a restraint of a mans liberty; under the custody of another,</hi> by lawfull warrant in deed or Law <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wfull warrant is, when the offence appeareth by matter of record, or when it doth not appeare by matter of Record,</p>
+            <pb facs="tcp:117600:5"/>
+            <p>By matter of Record, as when the party is taken upon an Inditement at the suite of the King, or upon an Appeal at the suite of the Party: when it doth not appeare by matter of Record, as when a felony is done, and the offend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by a lawfull <hi>Mitimus</hi> is committed to the Goale for the same. But between these two cases, there is a great diver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ty: For in the first case, whether any Felony were committed, or no, If the offender be taken by force of a <hi>Copia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the warrant is Lawfull; and if he breake Prison, it is a felony albeit no felony were committed. But in the the othe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> case, if no felony be done at all, and yet he is committed to prison for a supposed Felony, and breake Prison, this no Felony, for there is no cause. And the words of this Act, are<note n="[a]" place="margin">See <hi>Magna Charta</hi> Chap. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ilesse the cause for which he was taken require such a judgement</hi>] so as the cause must be just, and not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eigned; for things feigned require no judgement.</p>
+            <p>If A. give B. a mortall wound, for which A. is committed to Prison, and breaketh Prison, B dyeth of the woun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> within the yeare, this death hath relation to the stroke; but because relations are but fictions in Law, and fictions are not here entended, this escape is no folony, 11 H. 4 11 Plowd. co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 401 <hi>Cole<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> case.</hi>
+            </p>
+            <p>Seeing the weight of this businesse, touching this point, to make the escape, either in the party, or in the Goale<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> felony, dependeth upon the lawfullnesse of the <hi>Mitimu,</hi> it will be necessary to say somewhat hereof: First, it must be in writing, in the name, and under the Seale of him that makes the same, expressing his office, place and authority, by force whereof he maketh the <hi>Mitimus,</hi> and to be directed to the Goaler or keeper of the Goale or Prison: Se<g ref="char:EOLhyphen"/>condly, It must containe the case [as it expresly appeareth by this Act <hi>[b] unless the cause for which he was taken</hi> &amp;c] but not so certainly as an Inditement ought,<note n="*" place="margin">25 E. 3 42. B. <hi>Coron.</hi> 134. 32. E. 3. <hi>Coron.</hi> 248. 9. E. 4. 52.</note> and yet with such convenient certainty, as it may appeare judicially, that the offence <hi>re<g ref="char:EOLhyphen"/>quires such a judgement; as for high treason, to w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, against th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> person of our Lord the King; or for the counterfit<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g of he money of our Lord the King; or for Petty Treason; namely, for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eath of such a one, being his master; or for felony, to w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, for the death of such a one,</hi> &amp;c. or fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Burglary or Rober<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp;c. or for fellony, for Stealing of a Horse, &amp;c. or the like, so as it may in such a Generalli<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> appeare judicially, that the offence <hi>requires such a judgement.</hi>
+            </p>
+            <p>And this is proved both by reason, and authority. By reason; first, for that it is in case of felony [<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>which doth induce, or draw on the last Punishment</hi>] and therefore ought to have convenient certainty, as at i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aforesaid Secondly, Also it must have convenient certainty, for that a voluntary escape is felony in the Goaler. Thirdly, I the <hi>Mit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mus</hi> should be good generally <hi>[for felony]</hi> then, as the old rule is, <hi>[the ignorance of the Iudge shoul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be the calamity of the innocent:]</hi> for the truth of the case may be, that he did steale Charters of Land, or woo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Growing, or the like, which in Law are no felonies; and therefore in reason, a case of so high a nature concerning the life of man, the convenient certainty ought to be shewed.</p>
+            <p>By Authority, The constant forme of the inditement, in that case for escape, either by the Party, or voluntarily suffered by the Goaler, is, That he was arrested <hi>[for suspicion of a certaine felony,</hi> namely, <hi>for the death of a cer<g ref="char:EOLhyphen"/>ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne man, M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>N feloniously slaine,</hi> or the like; for the inditement must rehearse the effect of the Mitimus, which directly proveth, <hi>that the cause in such a g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nerall certainty ought to be shewed.</hi> vid 25 E. 3. fol 42.</p>
+            <p>Also if a man be indited of Treason, or indited or appealed for Felony, the <hi>Capias</hi> thereupon, whereby the part is to be arrested, comprehendeth the cause <hi>(and therefore much more the Mittimus)</hi> where the party it t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be arrested, having no such ground of Record, as the <hi>Capias</hi> hath; must, pursuing the effect of the <hi>Capi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> compre<g ref="char:EOLunhyphen"/>hend the case inconvenient certaintie, 25 <hi>E.</hi> 3. fol. 42. Pl. 32. there ought to be a certaine cause; and in the sa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> leafe, Pl. 35. in case of breaking of Prison, the cause of the Imprisonment ought to be shewed.</p>
+            <p>If a man bee indited (<hi>that hee breake Prison feloniously,</hi> &amp;c.) generally, it is not good; for the inditeme<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ought to rehearse the specialtie of the matter according to the Statute, that he being Imprisoned for felony, &amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>brake Prison:</hi> We have quoted many other bookes, which though they be not certainly reported,<note place="margin">9 <hi>E.</hi> 4. 26 41. ass 5. 22. <hi>E.</hi> 3. Coron. 242, 243, 248 43. <hi>E.</hi> ibid. 424. 3 <hi>E.</hi> 3. ibid. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2, 328, 333, 345, 346 2 <hi>E.</hi> 3. fol. 1. 26. ass. 51 22 <hi>E.</hi> 3. 13. 27. ass. 42. 27. ass. pag. 116. 15 <hi>E</hi> 2. Coron. 38. 9 <hi>H.</hi> 4. 1. 10 <hi>H</hi> 4, 7. 11. <hi>H.</hi> 4, 11. 8 <hi>E.</hi> 2. Coron. 422, 430, 431. 27 <hi>H.</hi> 6. 6, 7. 36 <hi>H.</hi> 6, 33. 1 <hi>K.</hi> 3. cap. 3. 2 <hi>H.</hi> 5. cap. 7. 21 <hi>H.</hi> 7, 17.</note> as might have been wished, yet the judicious Reader will ga<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fruit of them. But see before the exposition of <hi>Magna Chrata,</hi> Chap. 29. <hi>[by t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> law of the Land]</hi> and observe well the words of the Writ of <hi>Habeas Corpus,</hi> fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> direct proofe, that the cause ought to be shewed.</p>
+            <p>Lastly, see, hereafter in the exposition of the Statute of <hi>Articulicleri,</hi> the re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion of all the Iudges of England; the answer to the 21 and 22 objections, which will in no sort abridge for the Excellency thereof; but referre you to the fountain themselves.</p>
+            <p>Hereupon it appeareth, <hi>that the common Warrant or Mitimus, to answer to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> things as sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll be objected against him, is utterly against law.</hi>
+            </p>
+            <p>Now as the Mitimus must containe the cause, so the conclusion must be according to law; <hi>viz. The Prisoner safely to be keepe, untill he be delivered by due order Law, and not untill he that made it, shall give order or the like.</hi>
+            </p>
+            <closer>
+               <signed>Iohn Lilburne.</signed>
+               <dateline>
+                  <date>
+                     <hi>Ian.</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
